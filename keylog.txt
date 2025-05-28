@@ -1,0 +1,24 @@
+2025-05-24 09:27:08,855: Special key Key.space pressed
+2025-05-24 09:27:09,550: Special key Key.tab pressed
+2025-05-24 09:27:09,850: Special key Key.shift pressed
+2025-05-24 09:27:10,419: Special key Key.enter pressed
+2025-05-24 09:27:10,893: Special key Key.backspace pressed
+2025-05-24 09:27:11,617: Key h pressed
+2025-05-24 09:27:11,901: Key n pressed
+2025-05-24 09:27:12,108: Key d pressed
+2025-05-24 09:27:12,326: Key k pressed
+2025-05-24 09:27:12,468: Key j pressed
+2025-05-24 09:27:12,547: Key n pressed
+2025-05-24 09:27:12,738: Key e pressed
+2025-05-24 09:27:12,942: Key o pressed
+2025-05-24 09:27:13,038: Key u pressed
+2025-05-24 09:27:13,061: Key h pressed
+2025-05-24 09:27:13,338: Key n pressed
+2025-05-24 09:27:13,594: Key n pressed
+2025-05-24 09:27:13,719: Special key Key.shift pressed
+2025-05-24 09:27:13,909: Special key Key.space pressed
+2025-05-24 09:27:14,066: Special key Key.cmd pressed
+2025-05-24 09:27:14,271: Special key Key.space pressed
+2025-05-24 09:27:14,505: Key k pressed
+2025-05-24 09:27:16,347: Special key Key.backspace pressed
+2025-05-24 09:27:29,683: Special key Key.esc pressed
